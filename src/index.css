@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+.navbar-nav a{
+    padding: 10px;
+}
+.nodata {
+    width: 500px;
+    margin: auto;
+}
+.navbar-nav{
+    margin-right: 0 !important;
+}
